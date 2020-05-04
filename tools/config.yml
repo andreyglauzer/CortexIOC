@@ -1,0 +1,8 @@
+baseurl: 'https://fqdn.paloaltonetworks.com/rules/ioc'
+user: user
+passwd: passwd
+database_path: 'tools/'
+database_name: 'iocs.db'
+webdriver_path: 'tools/driver/chromedriver.exe'
+debug: False
+headless: True
